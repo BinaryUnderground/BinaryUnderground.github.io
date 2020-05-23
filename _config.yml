@@ -1,0 +1,14 @@
+# Site settings
+title: Tristan Wallace
+author: Tristan Wallace
+email: null
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "www.tristanwallace.tech" # the subpath of your site, e.g. /blog/
+url: "/tristanwallace.tech" # the base hostname & protocol for your site
+
+twitter_username: null
+github_username: binaryunderground
+linkedin_username: tristannwallace
+
+# Build settings
+markdown: kramdown
